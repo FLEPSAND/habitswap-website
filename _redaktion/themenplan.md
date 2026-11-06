@@ -8,13 +8,13 @@ Erledigte Zeilen bekommen ein ✅. Neue Themen unten anhängen. Reihenfolge: Gru
 
 | Datum | ref | Deutsch | Englisch | Merker |
 |---|---|---|---|---|
-| 06.11. | gewohnheit-ersetzen | `schlechte-gewohnheiten-ablegen` · „schlechte Gewohnheiten ablegen“ | `how-to-break-a-bad-habit` · „how to break a bad habit“ | |
-| 07.11. | pornos-aufhoeren | `pornos-aufhoeren` · „Pornos aufhören“ / „Pornosucht“ | `how-to-quit-porn` · „how to quit porn“ | K, G |
-| 08.11. | rueckfall | `rueckfall-was-tun` · „Rückfall was tun“ | `relapse-what-to-do` · „what to do after a relapse“ | K |
-| 09.11. | ausloeser | `ausloeser-erkennen-halt` · „Auslöser erkennen“, HALT-Regel | `habit-triggers-halt` · „habit triggers“, HALT | |
-| 10.11. | wie-lange | `wie-lange-dauert-es-eine-gewohnheit-zu-aendern` · „wie lange dauert es, eine Gewohnheit zu ändern“ (21-Tage-Mythos, 66 Tage) | `how-long-does-it-take-to-break-a-habit` · „how long does it take to break a habit“ | |
-| 11.11. | handy | `weniger-handy-scrollen` · „weniger am Handy“, „Handysucht“ | `how-to-stop-doomscrolling` · „how to stop doomscrolling“, „phone addiction“ | G |
-| 12.11. | metanoia | `metanoia-bedeutung` · „Metanoia Bedeutung“, Umkehr in der Bibel | `metanoia-meaning` · „metanoia meaning“, repentance | |
+| ✅ 06.11. | gewohnheit-ersetzen | `schlechte-gewohnheiten-ablegen` · „schlechte Gewohnheiten ablegen“ | `how-to-break-a-bad-habit` · „how to break a bad habit“ | |
+| ✅ 07.11. | pornos-aufhoeren | `pornos-aufhoeren` · „Pornos aufhören“ / „Pornosucht“ | `how-to-quit-porn` · „how to quit porn“ | K, G |
+| ✅ 08.11. | rueckfall | `rueckfall-was-tun` · „Rückfall was tun“ | `relapse-what-to-do` · „what to do after a relapse“ | K |
+| ✅ 09.11. | ausloeser | `ausloeser-erkennen-halt` · „Auslöser erkennen“, HALT-Regel | `habit-triggers-halt` · „habit triggers“, HALT | |
+| ✅ 10.11. | wie-lange | `wie-lange-dauert-es-eine-gewohnheit-zu-aendern` · „wie lange dauert es, eine Gewohnheit zu ändern“ (21-Tage-Mythos, 66 Tage) | `how-long-does-it-take-to-break-a-habit` · „how long does it take to break a habit“ | |
+| ✅ 11.11. | handy | `weniger-handy-scrollen` · „weniger am Handy“, „Handysucht“ | `how-to-stop-doomscrolling` · „how to stop doomscrolling“, „phone addiction“ | G |
+| ✅ 12.11. | metanoia | `metanoia-bedeutung` · „Metanoia Bedeutung“, Umkehr in der Bibel | `metanoia-meaning` · „metanoia meaning“, repentance | |
 
 ## Weitere Themen (Reihenfolge noch offen)
 
