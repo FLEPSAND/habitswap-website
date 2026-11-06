@@ -1,0 +1,78 @@
+title: Habit Swap
+url: https://habitswap.de
+timezone: Europe/Berlin
+# Artikel mit Datum in der Zukunft werden erst an ihrem Tag veröffentlicht.
+future: false
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+plugins:
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: artikel
+      author: Andreas Fleps
+  - scope:
+      path: "datenschutz.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "impressum.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "en/privacy.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "en/legal-notice.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "es/privacy.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "es/legal-notice.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "fr/privacy.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "fr/legal-notice.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "it/privacy.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "it/legal-notice.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "nl/privacy.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "nl/legal-notice.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "pt/privacy.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "pt/legal-notice.html"
+    values:
+      sitemap: false

@@ -1,0 +1,2 @@
+{%- assign t = site.data.texte[page.lang] -%}
+<footer>{% for l in t.footer %}<a href="{{ l[1] }}">{{ l[0] }}</a>{% endfor %}</footer>

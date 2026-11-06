@@ -1,0 +1,1 @@
+{%- assign t = site.data.texte[include.lang] -%}{%- assign m = include.d | date: "%-m" | minus: 1 -%}{%- if include.lang == 'en' -%}{{ t.monate[m] }} {{ include.d | date: "%-d, %Y" }}{%- else -%}{{ include.d | date: "%-d." }} {{ t.monate[m] }} {{ include.d | date: "%Y" }}{%- endif -%}

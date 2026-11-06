@@ -1,0 +1,11 @@
+{%- assign anzahl = include.anzahl | default: 1000 -%}
+{%- assign liste = site.posts | where: "lang", include.lang -%}
+<ul class="artikel-liste">
+{%- assign n = 0 -%}
+{%- for p in liste -%}
+{%- if p.url != include.ohne and n < anzahl -%}
+<li><a href="{{ p.url }}"><strong>{{ p.title }}</strong><span>{{ p.description }}</span></a></li>
+{%- assign n = n | plus: 1 -%}
+{%- endif -%}
+{%- endfor -%}
+</ul>

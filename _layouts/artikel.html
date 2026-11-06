@@ -1,0 +1,25 @@
+<!doctype html><html lang="{{ page.lang }}"><head>
+{% include kopf.html %}
+{%- assign t = site.data.texte[page.lang] -%}
+{%- assign woerter = content | strip_html | number_of_words -%}
+{%- assign minuten = woerter | divided_by: 200 | plus: 1 -%}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","headline":{{ page.title | jsonify }},"description":{{ page.description | jsonify }},"inLanguage":"{{ page.lang }}","datePublished":"{{ page.date | date_to_xmlschema }}","dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}","author":{"@type":"Person","name":"{{ page.author }}","url":"https://habitswap.de{% if page.lang == 'en' %}/en/legal-notice.html{% else %}/impressum.html{% endif %}"},"publisher":{"@type":"Organization","name":"Habit Swap","logo":{"@type":"ImageObject","url":"https://habitswap.de/icon.png"}},"mainEntityOfPage":"{{ page.url | absolute_url }}","image":"https://habitswap.de/icon.png","wordCount":{{ woerter }}}
+</script>
+</head><body><main class="artikel">
+{%- assign andere = site.posts | where: "ref", page.ref -%}
+<p class="nav"><a href="{{ t.home }}">{{ t.zurueck }}</a> · <a href="{{ t.ratgeber }}">{{ t.ratgeber_name }}</a>{% for f in andere %}{% if f.lang != page.lang %} · <a href="{{ f.url }}" lang="{{ f.lang }}">{{ t.andere_sprache }}</a>{% endif %}{% endfor %}</p>
+<article>
+<h1>{{ page.title }}</h1>
+<p class="meta">{{ t.von }} {{ page.author }} · {% include datum.html d=page.date lang=page.lang %}{% if page.last_modified_at %} · {{ t.aktualisiert }} {% include datum.html d=page.last_modified_at lang=page.lang %}{% endif %} · {{ minuten }} {{ t.lesezeit }}</p>
+{% if page.einleitung %}<p class="lead">{{ page.einleitung }}</p>{% endif %}
+{{ content }}
+</article>
+{% if page.krise %}<div class="card hinweis"><p>{{ t.krise }}</p></div>{% endif %}
+{% if page.gesundheit %}<p class="klein">{{ t.hinweis }}</p>{% endif %}
+<div class="card cta"><img src="/icon.png" alt="" width="64" height="64"><div><h2>{{ t.cta_titel }}</h2><p>{{ t.cta_text }}</p><a class="btn" href="{{ t.store }}">{{ t.store_knopf }}</a><p class="klein">{{ t.probe }}</p></div></div>
+<h2>{{ t.weitere }}</h2>
+{% include artikelliste.html lang=page.lang anzahl=4 ohne=page.url %}
+<p><a href="{{ t.ratgeber }}">{{ t.alle }} →</a></p>
+{% include fuss.html %}
+</main></body></html>
