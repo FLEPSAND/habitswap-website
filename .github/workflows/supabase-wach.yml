@@ -1,0 +1,30 @@
+# Hält das kostenlose Supabase-Projekt von Habit Swap wach.
+# Supabase pausiert Projekte im Free-Tarif nach 7 Tagen ohne Zugriff.
+# Die Anfrage nutzt nur den öffentlichen Schlüssel aus der App und liest keine Daten
+# (die Datenbank verweigert den Zugriff, verarbeitet die Anfrage aber).
+# Schlägt der Lauf fehl, ist das Projekt vermutlich pausiert: Dashboard → Resume project.
+name: Supabase wach halten
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Anfrage an die Datenbank
+        env:
+          KEY: ${{ secrets.SUPABASE_PUBLISHABLE_KEY }}
+        run: |
+          code=$(curl -s -o antwort.txt -w '%{http_code}' --max-time 30 \
+            "https://eagqnqynbwkaamdbxryt.supabase.co/rest/v1/groups?select=id&limit=1" \
+            -H "apikey: $KEY")
+          echo "HTTP $code"; head -c 300 antwort.txt; echo
+          case "$code" in
+            200|401|403) echo "Datenbank erreichbar." ;;
+            *) echo "::error::Supabase antwortet nicht normal (HTTP $code). Ist das Projekt pausiert?"; exit 1 ;;
+          esac
