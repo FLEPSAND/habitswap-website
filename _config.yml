@@ -19,7 +19,7 @@ defaults:
       type: posts
     values:
       layout: artikel
-      author: Andreas Fleps
+      author: Andreas
   - scope:
       path: "datenschutz.html"
     values:

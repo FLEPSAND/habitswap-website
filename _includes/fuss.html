@@ -12,5 +12,5 @@
     <nav class="fuss-spalte" aria-label="{% if page.lang == 'de' %}Rechtliches{% else %}Legal{% endif %}"><h2>{% case page.lang %}{% when 'de' %}Hilfe & Recht{% when 'en' %}Help & legal{% else %}Info{% endcase %}</h2>{% for l in t.footer %}<a href="{{ l[1] }}">{{ l[0] }}</a>{% endfor %}<a href="mailto:kontakt@habitswap.de">kontakt@habitswap.de</a></nav>
     <nav class="fuss-spalte" aria-label="{{ t.sprache }}"><h2>{{ t.sprache }}</h2><ul class="fuss-sprachen">{% include sprachlinks.html %}</ul></nav>
   </div>
-  <p class="fuss-zeile">© {{ site.time | date: "%Y" }} Andreas Fleps · Möckmühl</p>
+  <p class="fuss-zeile">© {{ site.time | date: "%Y" }} Habit Swap</p>
 </footer>
