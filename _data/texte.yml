@@ -1,4 +1,12 @@
 de:
+  name: Deutsch
+  sprache: Sprache
+  menue: Menü
+  nav:
+    - [Funktionen, /funktionen/]
+    - [Glaube, /glaube/]
+    - [Ratgeber, /ratgeber/]
+    - [Über uns, /ueber-uns/]
   home: /
   ratgeber: /ratgeber/
   ratgeber_name: Ratgeber
@@ -18,12 +26,19 @@ de:
   hinweis: "Dieser Artikel ersetzt keine ärztliche, psychotherapeutische oder Suchtberatung. Wenn du merkst, dass du allein nicht weiterkommst, sprich mit deinem Hausarzt oder einer Suchtberatungsstelle."
   monate: [Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]
   footer:
-    - [Ratgeber, /ratgeber/]
+    - [Hilfe, /support.html]
     - [Datenschutz, /datenschutz.html]
     - [Nutzungsbedingungen, /nutzungsbedingungen.html]
-    - [Hilfe, /support.html]
     - [Impressum, /impressum.html]
 en:
+  name: English
+  sprache: Language
+  menue: Menu
+  nav:
+    - [Features, /en/features/]
+    - [Faith, /en/faith/]
+    - [Guides, /en/guides/]
+    - [About, /en/about/]
   home: /en/
   ratgeber: /en/guides/
   ratgeber_name: Guides
@@ -43,8 +58,78 @@ en:
   hinweis: "This article is not a substitute for medical, psychological, or addiction counseling. If you notice you can’t make progress on your own, talk to your doctor or a local addiction service."
   monate: [January, February, March, April, May, June, July, August, September, October, November, December]
   footer:
-    - [Guides, /en/guides/]
+    - [Help, /en/support.html]
     - [Privacy, /en/privacy.html]
     - [Terms, /en/terms.html]
-    - [Help, /en/support.html]
     - [Legal notice, /en/legal-notice.html]
+es:
+  name: Español
+  sprache: Idioma
+  menue: Menú
+  nav: []
+  home: /es/
+  store: https://apps.apple.com/app/id6827934336
+  store_knopf: "Descargar en el App Store"
+  probe: "Prueba gratis 3 días · solo para iPhone"
+  footer:
+    - ["Ayuda", /es/support.html]
+    - ["Privacidad", /es/privacy.html]
+    - ["Condiciones de uso", /es/terms.html]
+    - ["Aviso legal", /es/legal-notice.html]
+fr:
+  name: Français
+  sprache: Langue
+  menue: Menu
+  nav: []
+  home: /fr/
+  store: https://apps.apple.com/app/id6827934336
+  store_knopf: "Télécharger dans l’App Store"
+  probe: "3 jours d’essai gratuit · iPhone uniquement"
+  footer:
+    - ["Aide", /fr/support.html]
+    - ["Confidentialité", /fr/privacy.html]
+    - ["Conditions", /fr/terms.html]
+    - ["Mentions légales", /fr/legal-notice.html]
+it:
+  name: Italiano
+  sprache: Lingua
+  menue: Menu
+  nav: []
+  home: /it/
+  store: https://apps.apple.com/app/id6827934336
+  store_knopf: "Scarica su App Store"
+  probe: "Prova gratis per 3 giorni · solo per iPhone"
+  footer:
+    - ["Aiuto", /it/support.html]
+    - ["Privacy", /it/privacy.html]
+    - ["Termini", /it/terms.html]
+    - ["Note legali", /it/legal-notice.html]
+nl:
+  name: Nederlands
+  sprache: Taal
+  menue: Menu
+  nav: []
+  home: /nl/
+  store: https://apps.apple.com/app/id6827934336
+  store_knopf: "Download in de App Store"
+  probe: "3 dagen gratis proberen · alleen voor iPhone"
+  footer:
+    - ["Hulp", /nl/support.html]
+    - ["Privacybeleid", /nl/privacy.html]
+    - ["Gebruiksvoorwaarden", /nl/terms.html]
+    - ["Colofon", /nl/legal-notice.html]
+pt:
+  name: Português
+  sprache: Idioma
+  menue: Menu
+  nav: []
+  home: /pt/
+  store: https://apps.apple.com/app/id6827934336
+  store_knopf: "Baixar na App Store"
+  probe: "Teste grátis por 3 dias · só para iPhone"
+  footer:
+    - ["Ajuda", /pt/support.html]
+    - ["Privacidade", /pt/privacy.html]
+    - ["Termos de Uso", /pt/terms.html]
+    - ["Aviso legal", /pt/legal-notice.html]
+sprachen: [de, en, es, fr, it, nl, pt]

@@ -1,2 +1,16 @@
 {%- assign t = site.data.texte[page.lang] -%}
-<footer>{% for l in t.footer %}<a href="{{ l[1] }}">{{ l[0] }}</a>{% endfor %}</footer>
+<footer class="fusszeile">
+  <div class="fuss-innen">
+    <div class="fuss-marke">
+      <a class="marke" href="{{ t.home }}"><img src="/icon.png" alt="" width="34" height="34"><span>Habit Swap</span></a>
+      <p>{% case page.lang %}{% when 'de' %}Schlechte Gewohnheiten durch gute ersetzen – jeden Tag ein Stück höher.{% when 'en' %}Replace bad habits with good ones – a little higher every day.{% when 'es' %}Cambia malos hábitos por buenos: cada día un poco más arriba.{% when 'fr' %}Remplacer les mauvaises habitudes par de bonnes, un peu plus haut chaque jour.{% when 'it' %}Sostituisci le cattive abitudini con buone, ogni giorno un po’ più in alto.{% when 'nl' %}Slechte gewoontes vervangen door goede, elke dag een stukje hoger.{% when 'pt' %}Troque maus hábitos por bons, a cada dia um pouco mais alto.{% endcase %}</p>
+      <a class="knopf knopf-klein" href="{{ t.store }}">{{ t.store_knopf }}</a>
+    </div>
+    {%- if t.nav.size > 0 %}
+    <nav class="fuss-spalte" aria-label="Habit Swap"><h2>Habit Swap</h2>{% for n in t.nav %}<a href="{{ n[1] }}">{{ n[0] }}</a>{% endfor %}</nav>
+    {%- endif %}
+    <nav class="fuss-spalte" aria-label="{% if page.lang == 'de' %}Rechtliches{% else %}Legal{% endif %}"><h2>{% case page.lang %}{% when 'de' %}Hilfe & Recht{% when 'en' %}Help & legal{% else %}Info{% endcase %}</h2>{% for l in t.footer %}<a href="{{ l[1] }}">{{ l[0] }}</a>{% endfor %}<a href="mailto:kontakt@habitswap.de">kontakt@habitswap.de</a></nav>
+    <nav class="fuss-spalte" aria-label="{{ t.sprache }}"><h2>{{ t.sprache }}</h2><ul class="fuss-sprachen">{% include sprachlinks.html %}</ul></nav>
+  </div>
+  <p class="fuss-zeile">© {{ site.time | date: "%Y" }} Andreas Fleps · Möckmühl</p>
+</footer>

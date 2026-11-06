@@ -1,8 +1,9 @@
 ---
+layout: seite
 lang: en
 title: "Habit Swap – replace bad habits with good ones"
 description: "Habit Swap helps you replace bad habits with good ones: a swap plan, an emergency coach, a daily check-in, and a 90-day path. If you like, with the Bible and prayer."
-hreflang:
+alternates:
   de: /
   en: /en/
   es: /es/
@@ -10,62 +11,138 @@ hreflang:
   it: /it/
   nl: /nl/
   pt: /pt/
-  x-default: /en/
+kopf_extra: |
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"MobileApplication","name":"Habit Swap","operatingSystem":"iOS","applicationCategory":"HealthApplication","url":"https://habitswap.de/en/","installUrl":"https://apps.apple.com/app/id6827934336","image":"https://habitswap.de/icon.png","inLanguage":["de","en","es","fr","it","nl","pt"],"author":{"@type":"Person","name":"Andreas Fleps"}}
+  </script>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+  {"@type":"Question","name":"How much does Habit Swap cost?","acceptedAnswer":{"@type":"Answer","text":"You can try Habit Swap free for 3 days. After that, Habit Swap Premium is a monthly or yearly subscription; the App Store shows the price in your local currency. The emergency coach and the crisis card are always free. You can cancel anytime in your iPhone settings."}},
+  {"@type":"Question","name":"Do I have to be a Christian to use Habit Swap?","acceptedAnswer":{"@type":"Answer","text":"No. Habit Swap is open to everyone. When you start, you choose whether you already believe in Jesus, want to get to know him, or would rather leave faith out for now. Bible verses, prayer, and prayer groups are an invitation, not a requirement."}},
+  {"@type":"Question","name":"Which habits does Habit Swap help with?","acceptedAnswer":{"@type":"Answer","text":"To quit: pornography, alcohol, smoking and vaping, cannabis, gambling and sports betting, gaming, social media and phone use, sugar and fast food, procrastination, or something of your own. To build: exercise, getting up early, reading, prayer and Bible reading, healthy eating, or something of your own."}},
+  {"@type":"Question","name":"What happens to my data?","acceptedAnswer":{"@type":"Answer","text":"Your progress, check-ins, and notes stay on your iPhone. No ads, no tracking. Only if you use Together is the data you choose to share stored, encrypted, on servers in Frankfurt, Germany."}},
+  {"@type":"Question","name":"Is Habit Swap available for Android?","acceptedAnswer":{"@type":"Answer","text":"For now, Habit Swap is available for iPhone only."}}
+  ]}
+  </script>
 ---
-<!doctype html><html lang="en"><head>
-{% include kopf.html %}
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"MobileApplication","name":"Habit Swap","operatingSystem":"iOS","applicationCategory":"HealthApplication","url":"https://habitswap.de/en/","installUrl":"https://apps.apple.com/app/id6827934336","image":"https://habitswap.de/icon.png","inLanguage":["de","en","es","fr","it","nl","pt"],"author":{"@type":"Person","name":"Andreas Fleps"}}
-</script>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"How much does Habit Swap cost?","acceptedAnswer":{"@type":"Answer","text":"You can try Habit Swap free for 3 days. After that, Habit Swap Premium is a monthly or yearly subscription; the App Store shows the price in your local currency. The emergency coach and the crisis card are always free. You can cancel anytime in your iPhone settings."}},
-{"@type":"Question","name":"Do I have to be a Christian to use Habit Swap?","acceptedAnswer":{"@type":"Answer","text":"No. Habit Swap is open to everyone. When you start, you choose whether you already believe in Jesus, want to get to know him, or would rather leave faith out for now. Bible verses, prayer, and prayer groups are an invitation, not a requirement."}},
-{"@type":"Question","name":"Which habits does Habit Swap help with?","acceptedAnswer":{"@type":"Answer","text":"To quit: pornography, alcohol, smoking and vaping, cannabis, gambling and sports betting, gaming, social media and phone use, sugar and fast food, procrastination, or something of your own. To build: exercise, getting up early, reading, prayer and Bible reading, healthy eating, or something of your own."}},
-{"@type":"Question","name":"What happens to my data?","acceptedAnswer":{"@type":"Answer","text":"Your progress, check-ins, and notes stay on your iPhone. No ads, no tracking. Only if you use Together is the data you choose to share stored, encrypted, on servers in Frankfurt, Germany."}},
-{"@type":"Question","name":"Is Habit Swap available for Android?","acceptedAnswer":{"@type":"Answer","text":"For now, Habit Swap is available for iPhone only."}}
-]}
-</script>
-</head><body><main>
-<p class="nav"><a href="/" lang="de">Deutsch</a> · <a href="/es/" lang="es">Español</a> · <a href="/fr/" lang="fr">Français</a> · <a href="/it/" lang="it">Italiano</a> · <a href="/nl/" lang="nl">Nederlands</a> · <a href="/pt/" lang="pt">Português</a></p>
-<div class="hero"><img src="/icon.png" alt="Habit Swap icon" width="112" height="112"><h1>Habit Swap</h1><p class="lead">Replace bad habits with good ones – a little higher every day.</p>
-<a class="btn" href="https://apps.apple.com/app/id6827934336">Download on the App Store</a><p class="klein">Try it free for 3 days · iPhone only</p></div>
+<section class="held">
+  <div class="held-innen">
+    <div class="held-text">
+      <span class="oberzeile">The habit app for iPhone</span>
+      <h1>Swap it, don’t just <em>fight it</em>.</h1>
+      <p class="einleitung">Habit Swap helps you replace a habit that harms you with a good one. With a plan for the moment the urge hits and a 90-day path to the summit. If you like, with the Bible, prayer, and people who pray for you.</p>
+      <div class="held-knoepfe">
+        <a class="knopf" href="https://apps.apple.com/app/id6827934336">{% include apple.html %}Download on the App Store</a>
+        <a class="knopf knopf-rand" href="#how-it-works">How it works</a>
+      </div>
+      <p class="klein">Free for 3 days · ages 16+ · iPhone only</p>
+    </div>
+    <div class="held-bilder">
+      <img src="/img/screens/en-3.jpg" alt="The 90-day climb in Habit Swap" width="270" height="584">
+      <img src="/img/screens/en-1.jpg" alt="The Today view in Habit Swap" width="270" height="584">
+    </div>
+  </div>
+  {% include berge.html %}
+</section>
 
-<div class="screens">
-<img src="/img/screens/en-1.jpg" alt="Today: your goals, daily target, and elevation gained" width="200" height="433" loading="lazy">
-<img src="/img/screens/en-2.jpg" alt="Emergency coach for the moment the urge hits" width="200" height="433" loading="lazy">
-<img src="/img/screens/en-3.jpg" alt="The 90-day climb from base camp to the summit" width="200" height="433" loading="lazy">
-<img src="/img/screens/en-4.jpg" alt="Metanoia: change that comes from within" width="200" height="433" loading="lazy">
-<img src="/img/screens/en-5.jpg" alt="Learn: short articles on habits and faith" width="200" height="433" loading="lazy">
+<div class="leiste">
+  <span><svg viewBox="0 0 24 24"><path d="M12 3l7 3v6c0 4.5-3 7.6-7 9-4-1.4-7-4.5-7-9V6z"/></svg>Your data stays on your iPhone</span>
+  <span><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/></svg>No ads, no tracking</span>
+  <span><svg viewBox="0 0 24 24"><path d="M3 20l6-11 4 6 3-4 5 9z"/></svg>A 90-day path to the summit</span>
+  <span><svg viewBox="0 0 24 24"><path d="M12 3v18M7 8h10"/></svg>Faith as an invitation</span>
 </div>
 
-<div class="card"><h2>Swap instead of struggle</h2><p>If you only suppress a habit, you fight the same gap every day. That’s why Habit Swap is built around a set swap: you decide in advance what you’ll do when the urge comes, and when it usually comes. So in the moment that matters, you have a plan, not just a rule.</p></div>
+<section class="abschnitt" id="how-it-works">
+  <div class="innen">
+    <span class="oberzeile">How it works</span>
+    <h2>Willpower alone rarely lasts.<br>A good swap usually does.</h2>
+    <p class="einleitung">If you only suppress a habit, you fight the same gap every day. Habit Swap fills that gap with something good.</p>
+    <div class="schritte">
+      <div class="schritt"><h3>Spot your triggers</h3><p>Note when the urge usually comes: the time, the place, the mood. Every check-in makes your patterns clearer.</p></div>
+      <div class="schritt"><h3>Set your swap</h3><p>Decide in advance what you’ll do instead in exactly that moment. When it gets hard, the emergency coach reminds you.</p></div>
+      <div class="schritt"><h3>Climb every day</h3><p>Every day earns elevation, from base camp to the summit cross. A slip doesn’t send you back to the valley.</p></div>
+    </div>
+  </div>
+</section>
 
-<div class="grid">
-<div class="card"><h3>Emergency coach</h3><p>When the urge gets strong, open the coach. It asks, calms you down, and reminds you of your swap. The coach and the crisis card are always free.</p></div>
-<div class="card"><h3>90-day climb</h3><p>Every day takes you higher, from base camp to the summit cross. A slip doesn’t throw you back into the valley; you learn from it and keep going.</p></div>
-<div class="card"><h3>Daily check-in</h3><p>A short look back each evening: how was your day, what triggered you, what helped? Over time you start to see your patterns.</p></div>
-<div class="card"><h3>Not alone</h3><p>Connect with an accountability partner or a private prayer group. You decide what you share.</p></div>
-</div>
+<section class="abschnitt abschnitt-hell">
+  <div class="innen">
+    <span class="oberzeile">Features</span>
+    <h2>Everything you need for the climb</h2>
+    <div class="raster vier">
+      <div class="kachel"><svg class="symbol" viewBox="0 0 40 40"><path d="M20 6v8M20 26v8M6 20h8M26 20h8"/><circle cx="20" cy="20" r="5"/></svg><h3>Emergency coach</h3><p>Gets you through the first minutes when the urge is strong. Always free, with a crisis card.</p></div>
+      <div class="kachel"><svg class="symbol" viewBox="0 0 40 40"><path d="M5 33l11-20 7 11 5-7 7 16z"/></svg><h3>90-day climb</h3><p>Ten stages from base camp to the summit make your progress visible.</p></div>
+      <div class="kachel"><svg class="symbol" viewBox="0 0 40 40"><rect x="8" y="8" width="24" height="26" rx="4"/><path d="M14 20l4 4 8-8"/></svg><h3>Daily check-in</h3><p>A short look back each evening shows you, over time, what triggers you and what helps.</p></div>
+      <div class="kachel"><svg class="symbol" viewBox="0 0 40 40"><circle cx="14" cy="15" r="5"/><circle cx="27" cy="15" r="5"/><path d="M5 32c1-6 5-9 9-9s8 3 9 9M18 32c1-6 5-9 9-9s8 3 8 9"/></svg><h3>Partners and prayer groups</h3><p>Invite an accountability partner or start a private group. You decide what you share.</p></div>
+    </div>
+    <p style="margin-top:32px"><a href="/en/features/">See all features →</a></p>
+  </div>
+</section>
 
-<div class="card"><h2>Metanoia – change that comes from within</h2><p>We believe real change doesn’t begin with more willpower, but with a new heart. If you like, the app walks with you through God’s word, prayer, and people who pray for you. The app is open to everyone – whether you already know Jesus, want to get to know him, or simply want a fresh start.</p></div>
+<section class="abschnitt band">
+  <div class="innen band-raster">
+    <div>
+      <span class="oberzeile">Metanoia</span>
+      <h2>Change that comes from within</h2>
+      <p class="einleitung">We believe real change doesn’t begin with more willpower, but with a new heart that God gives. Habit Swap invites you into that, without pushing. Whether you already know Jesus, want to get to know him, or simply want a fresh start, you’re welcome.</p>
+      <a class="knopf knopf-rand" href="/en/faith/">More about faith in Habit Swap</a>
+    </div>
+    <blockquote>“Don’t be conformed to this world, but be transformed by the renewing of your mind.”<cite>Romans 12:2 · World English Bible</cite></blockquote>
+  </div>
+</section>
 
-<h2>What Habit Swap helps with</h2>
-<p><strong>Quit:</strong> pornography, alcohol, smoking and vaping, cannabis, gambling and sports betting, gaming, social media and phone use, sugar and fast food, procrastination.<br><strong>Build:</strong> exercise, getting up early, reading, prayer and Bible reading, healthy eating. Or something entirely your own.</p>
+<section class="abschnitt">
+  <div class="innen">
+    <span class="oberzeile">Who it’s for</span>
+    <h2>Quit or build</h2>
+    <div class="raster">
+      <div class="kachel"><h3>Leave behind</h3><p>Pornography, alcohol, smoking and vaping, cannabis, gambling and sports betting, gaming, social media and phone use, sugar and fast food, procrastination.</p></div>
+      <div class="kachel"><h3>Build up</h3><p>Exercise, getting up early, reading, prayer and Bible reading, healthy eating. Or something entirely your own.</p></div>
+    </div>
+  </div>
+</section>
 
-<div class="card"><h2>Your data stays with you</h2><p>Your progress, your check-ins, and your notes are stored only on your device. No ads, no tracking. Only if you use “Together” is the data you choose to share stored, encrypted, on servers in Frankfurt, Germany.</p></div>
+<section class="abschnitt abschnitt-hell">
+  <div class="innen">
+    <span class="oberzeile">Guides</span>
+    <h2>New in Guides</h2>
+    <p class="einleitung">A new article every day on habits, relapse, freedom, and faith. Honest and practical.</p>
+    {% include artikelliste.html lang="en" anzahl=3 %}
+    <p style="margin-top:28px"><a href="/en/guides/">All guides →</a></p>
+  </div>
+</section>
 
-<h2>New in Guides</h2>
-{% include artikelliste.html lang="en" anzahl=3 %}
-<p><a href="/en/guides/">All guides →</a></p>
+<section class="abschnitt zentriert" id="pricing">
+  <div class="innen">
+    <span class="oberzeile">Pricing</span>
+    <h2>Try it free for three days</h2>
+    <p class="einleitung">Then choose a subscription. The emergency coach and the crisis card are always free.</p>
+    <div class="preise">
+      <div class="preis"><strong>Monthly</strong><span class="betrag">€4.99</span><p>per month, cancel monthly</p></div>
+      <div class="preis empfohlen"><span class="marke-klein">Save a third</span><strong>Yearly</strong><span class="betrag">€39.99</span><p>per year, about €3.33 a month</p></div>
+    </div>
+    <p class="klein">Eurozone prices. The App Store shows the price in your local currency before you buy.</p>
+  </div>
+</section>
 
-<h2>Frequently asked questions</h2>
-<details><summary>How much does Habit Swap cost?</summary><p>You can try Habit Swap free for 3 days. After that, Habit Swap Premium is a monthly or yearly subscription; the App Store shows the price in your local currency. The emergency coach and the crisis card are always free. You can cancel anytime in your iPhone settings.</p></details>
-<details><summary>Do I have to be a Christian to use Habit Swap?</summary><p>No. Habit Swap is open to everyone. When you start, you choose whether you already believe in Jesus, want to get to know him, or would rather leave faith out for now. Bible verses, prayer, and prayer groups are an invitation, not a requirement.</p></details>
-<details><summary>Which habits does Habit Swap help with?</summary><p>To quit: pornography, alcohol, smoking and vaping, cannabis, gambling and sports betting, gaming, social media and phone use, sugar and fast food, procrastination, or something of your own. To build: exercise, getting up early, reading, prayer and Bible reading, healthy eating, or something of your own.</p></details>
-<details><summary>What happens to my data?</summary><p>Your progress, check-ins, and notes stay on your iPhone. No ads, no tracking. Only if you use “Together” is the data you choose to share stored, encrypted, on servers in Frankfurt, Germany.</p></details>
-<details><summary>Is Habit Swap available for Android?</summary><p>For now, Habit Swap is available for iPhone only.</p></details>
+<section class="abschnitt abschnitt-hell" id="faq">
+  <div class="innen">
+    <div class="zentriert"><span class="oberzeile">Questions</span><h2>Frequently asked questions</h2></div>
+    <div class="fragen">
+      <details><summary>How much does Habit Swap cost?</summary><p>You can try Habit Swap free for 3 days. After that, Habit Swap Premium is a monthly or yearly subscription; the App Store shows the price in your local currency. The emergency coach and the crisis card are always free. You can cancel anytime in your iPhone settings.</p></details>
+      <details><summary>Do I have to be a Christian to use Habit Swap?</summary><p>No. Habit Swap is open to everyone. When you start, you choose whether you already believe in Jesus, want to get to know him, or would rather leave faith out for now. Bible verses, prayer, and prayer groups are an invitation, not a requirement.</p></details>
+      <details><summary>Which habits does Habit Swap help with?</summary><p>To quit: pornography, alcohol, smoking and vaping, cannabis, gambling and sports betting, gaming, social media and phone use, sugar and fast food, procrastination, or something of your own. To build: exercise, getting up early, reading, prayer and Bible reading, healthy eating, or something of your own.</p></details>
+      <details><summary>What happens to my data?</summary><p>Your progress, check-ins, and notes stay on your iPhone. No ads, no tracking. Only if you use “Together” is the data you choose to share stored, encrypted, on servers in Frankfurt, Germany.</p></details>
+      <details><summary>Is Habit Swap available for Android?</summary><p>For now, Habit Swap is available for iPhone only.</p></details>
+    </div>
+  </div>
+</section>
 
-<div class="hero"><a class="btn" href="https://apps.apple.com/app/id6827934336">Download on the App Store</a><p class="klein">Ages 16+ · English, German, Spanish, French, Italian, Dutch, Portuguese</p></div>
-{% include fuss.html %}
-</main></body></html>
+<section class="abschnitt zentriert">
+  <div class="innen schmal">
+    <h2>Today is a good day for the first step.</h2>
+    <p class="einleitung">Download Habit Swap, set your swap, and start your climb.</p>
+    <a class="knopf" href="https://apps.apple.com/app/id6827934336">{% include apple.html %}Download on the App Store</a>
+    <p class="klein" style="margin-top:14px">English, German, Spanish, French, Italian, Dutch, Portuguese</p>
+  </div>
+</section>

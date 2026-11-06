@@ -1,14 +1,16 @@
 ---
+layout: seite
 lang: de
 title: Seite nicht gefunden – Habit Swap
 description: Diese Seite gibt es nicht.
 sitemap: false
+noindex: true
 permalink: /404.html
 ---
-<!doctype html><html lang="de"><head>
-{% include kopf.html %}<meta name="robots" content="noindex">
-</head><body><main>
-<div class="hero"><img src="/icon.png" alt="" width="112" height="112"><h1>Hier geht es nicht weiter</h1><p class="lead">Diese Seite gibt es nicht (mehr). Page not found.</p>
-<a class="btn" href="/">Zur Startseite</a></div>
-<p><a href="/ratgeber/">Zum Ratgeber</a> · <a href="/en/" lang="en">English</a> · <a href="/en/guides/" lang="en">Guides</a></p>
-</main></body></html>
+<header class="seitenkopf">
+  <span class="oberzeile">404</span>
+  <h1>Hier geht es nicht weiter</h1>
+  <p class="einleitung">Diese Seite gibt es nicht (mehr). This page could not be found.</p>
+  <p style="margin-top:24px"><a class="knopf" href="/">Zur Startseite</a></p>
+  <p><a href="/ratgeber/">Ratgeber</a> · <a href="/en/" lang="en">English</a> · <a href="/en/guides/" lang="en">Guides</a></p>
+</header>

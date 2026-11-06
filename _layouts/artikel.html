@@ -4,22 +4,35 @@
 {%- assign woerter = content | strip_html | number_of_words -%}
 {%- assign minuten = woerter | divided_by: 200 | plus: 1 -%}
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","headline":{{ page.title | jsonify }},"description":{{ page.description | jsonify }},"inLanguage":"{{ page.lang }}","datePublished":"{{ page.date | date_to_xmlschema }}","dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}","author":{"@type":"Person","name":"{{ page.author }}","url":"https://habitswap.de{% if page.lang == 'en' %}/en/legal-notice.html{% else %}/impressum.html{% endif %}"},"publisher":{"@type":"Organization","name":"Habit Swap","logo":{"@type":"ImageObject","url":"https://habitswap.de/icon.png"}},"mainEntityOfPage":"{{ page.url | absolute_url }}","image":"https://habitswap.de/icon.png","wordCount":{{ woerter }}}
+{"@context":"https://schema.org","@type":"BlogPosting","headline":{{ page.title | jsonify }},"description":{{ page.description | jsonify }},"inLanguage":"{{ page.lang }}","datePublished":"{{ page.date | date_to_xmlschema }}","dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}","author":{"@type":"Person","name":"{{ page.author }}","url":"https://habitswap.de{% if page.lang == 'en' %}/en/about/{% else %}/ueber-uns/{% endif %}"},"publisher":{"@type":"Organization","name":"Habit Swap","logo":{"@type":"ImageObject","url":"https://habitswap.de/icon.png"}},"mainEntityOfPage":"{{ page.url | absolute_url }}","image":"https://habitswap.de/icon.png","wordCount":{{ woerter }}}
 </script>
-</head><body><main class="artikel">
-{%- assign andere = site.posts | where: "ref", page.ref -%}
-<p class="nav"><a href="{{ t.home }}">{{ t.zurueck }}</a> · <a href="{{ t.ratgeber }}">{{ t.ratgeber_name }}</a>{% for f in andere %}{% if f.lang != page.lang %} · <a href="{{ f.url }}" lang="{{ f.lang }}">{{ t.andere_sprache }}</a>{% endif %}{% endfor %}</p>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Habit Swap","item":"{{ t.home | absolute_url }}"},{"@type":"ListItem","position":2,"name":"{{ t.ratgeber_name }}","item":"{{ t.ratgeber | absolute_url }}"},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }}}]}
+</script>
+</head><body>
+{% include kopfzeile.html %}
+<main id="inhalt">
 <article>
+<header class="artikel-kopf"><div class="schmal">
+<p class="brotkrumen"><a href="{{ t.home }}">Habit Swap</a> / <a href="{{ t.ratgeber }}">{{ t.ratgeber_name }}</a></p>
 <h1>{{ page.title }}</h1>
-<p class="meta">{{ t.von }} {{ page.author }} · {% include datum.html d=page.date lang=page.lang %}{% if page.last_modified_at %} · {{ t.aktualisiert }} {% include datum.html d=page.last_modified_at lang=page.lang %}{% endif %} · {{ minuten }} {{ t.lesezeit }}</p>
-{% if page.einleitung %}<p class="lead">{{ page.einleitung }}</p>{% endif %}
+{%- assign andere = site.posts | where: "ref", page.ref -%}
+<p class="meta"><span>{{ t.von }} <a href="{% if page.lang == 'en' %}/en/about/{% else %}/ueber-uns/{% endif %}">{{ page.author }}</a></span><span>{% include datum.html d=page.date lang=page.lang %}</span><span>{{ minuten }} {{ t.lesezeit }}</span>{% for f in andere %}{% if f.lang != page.lang %}<a class="andere" href="{{ f.url }}" lang="{{ f.lang }}">{{ t.andere_sprache }}</a>{% endif %}{% endfor %}</p>
+</div></header>
+<div class="artikeltext">
 {{ content }}
+</div>
 </article>
-{% if page.krise %}<div class="card hinweis"><p>{{ t.krise }}</p></div>{% endif %}
-{% if page.gesundheit %}<p class="klein">{{ t.hinweis }}</p>{% endif %}
-<div class="card cta"><img src="/icon.png" alt="" width="64" height="64"><div><h2>{{ t.cta_titel }}</h2><p>{{ t.cta_text }}</p><a class="btn" href="{{ t.store }}">{{ t.store_knopf }}</a><p class="klein">{{ t.probe }}</p></div></div>
+<div style="padding:0 var(--rand)">
+{% if page.krise %}<div class="hinweis"><p>{{ t.krise }}</p></div>{% endif %}
+{% if page.gesundheit %}<p class="hinweis-klein">{{ t.hinweis }}</p>{% endif %}
+<aside class="app-kasten"><img src="/icon.png" alt="" width="72" height="72"><div><h2>{{ t.cta_titel }}</h2><p>{{ t.cta_text }}</p><a class="knopf knopf-klein" href="{{ t.store }}">{% include apple.html %}{{ t.store_knopf }}</a><p class="klein">{{ t.probe }}</p></div></aside>
+</div>
+<section class="abschnitt"><div class="innen">
 <h2>{{ t.weitere }}</h2>
-{% include artikelliste.html lang=page.lang anzahl=4 ohne=page.url %}
-<p><a href="{{ t.ratgeber }}">{{ t.alle }} →</a></p>
+{% include artikelliste.html lang=page.lang anzahl=3 ohne=page.url %}
+<p style="margin-top:28px"><a href="{{ t.ratgeber }}">{{ t.alle }} →</a></p>
+</div></section>
+</main>
 {% include fuss.html %}
-</main></body></html>
+</body></html>

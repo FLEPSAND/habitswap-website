@@ -4,7 +4,7 @@
 {%- assign n = 0 -%}
 {%- for p in liste -%}
 {%- if p.url != include.ohne and n < anzahl -%}
-<li><a href="{{ p.url }}"><strong>{{ p.title }}</strong><span>{{ p.description }}</span></a></li>
+<li><a href="{{ p.url }}"><time datetime="{{ p.date | date: '%Y-%m-%d' }}">{% include datum.html d=p.date lang=include.lang %}</time><strong>{{ p.title }}</strong><span>{{ p.description }}</span><span class="weiter">{% if include.lang == 'en' %}Read article{% else %}Weiterlesen{% endif %} →</span></a></li>
 {%- assign n = n | plus: 1 -%}
 {%- endif -%}
 {%- endfor -%}

@@ -1,18 +1,19 @@
 ---
+layout: seite
 lang: de
 title: "Ratgeber: Gewohnheiten ändern, frei werden, dranbleiben – Habit Swap"
 description: "Artikel über schlechte Gewohnheiten, Rückfälle, Pornografie, Alkohol, Handy und Glauben: ehrlich, praktisch und mit Hoffnung. Jeden Tag ein neuer Artikel."
-hreflang:
+alternates:
   de: /ratgeber/
   en: /en/guides/
-  x-default: /en/guides/
 ---
-<!doctype html><html lang="de"><head>
-{% include kopf.html %}
-</head><body><main>
-<p class="nav"><a href="/">← Habit Swap</a> · <a href="/en/guides/" lang="en">English</a></p>
-<h1>Ratgeber</h1>
-<p class="lead">Wie Gewohnheiten entstehen, warum Willenskraft allein selten reicht und wie Veränderung von innen wachsen kann. Praktisch, ehrlich und mit Hoffnung, für alle, die neu anfangen wollen.</p>
-{% include artikelliste.html lang="de" %}
-{% include fuss.html %}
-</main></body></html>
+<header class="seitenkopf">
+  <span class="oberzeile">Ratgeber</span>
+  <h1>Gewohnheiten ändern,<br>frei werden, dranbleiben</h1>
+  <p class="einleitung">Wie Gewohnheiten entstehen, warum Willenskraft allein selten reicht und wie Veränderung von innen wachsen kann. Jeden Tag ein neuer Artikel, ehrlich und praktisch.</p>
+</header>
+<section class="abschnitt" style="padding-top:0">
+  <div class="innen">
+    {% include artikelliste.html lang="de" %}
+  </div>
+</section>
