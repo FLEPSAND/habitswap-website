@@ -11,9 +11,23 @@ Menschen zwischen 16 und 45, die eine Gewohnheit loswerden oder aufbauen wollen:
 ## Haltung
 
 - Ehrlich, warm, ohne Moralkeule. Der Leser wird nicht beschämt.
-- Hoffnung statt Druck: Veränderung ist möglich, Ausrutscher gehören dazu.
+- Hoffnung statt Druck: Veränderung ist möglich. Wer fällt, darf umkehren und wieder aufstehen (siehe „Biblische Maßstäbe“).
 - Glaube als Einladung: Wo es passt, ein Abschnitt zum Glauben (Gnade, Gebet, Gemeinschaft, Metanoia). Echte Veränderung kommt aus einem neuen Herzen, das Gott schenkt, nicht aus eigener Kraft. Nie so, dass Nichtchristen sich ausgeschlossen fühlen.
 - Deutsch duzt („du“), Englisch spricht den Leser mit „you“ an.
+
+## Biblische Maßstäbe (Andreas' Überzeugung, verbindlich)
+
+Jeder Artikel muss zu Andreas' Überzeugung als Christ und zu den Maßstäben der Bibel passen. Das geht vor Suchmaschinen-Optimierung und vor jeder Studie.
+
+- **Die Bibel ist der Maßstab.** Was sie Sünde nennt, wird nicht relativiert und nicht nur damit begründet, dass es „dir nicht guttut“. Klar benennen, aber mit Gnade und ohne Verachtung.
+- **Nichts verharmlosen.** Keine Sätze wie „Ausrutscher gehören dazu“ oder „mit dir ist nichts falsch“. Rückfälle ernst nehmen, Umkehr und Vergebung zeigen und Hoffnung geben: nicht liegen bleiben, sondern aufstehen.
+- **Früh entscheiden.** Ein Kernpunkt für Andreas: Der Kampf wird lange vor der eigentlichen Tat gewonnen oder verloren. Vorbild ist Hiob: „Ich habe einen Bund gemacht mit meinen Augen, daß ich nicht achtete auf eine Jungfrau.“ (Hiob 31,1). Also schon bei scheinbar harmlosen oder ungefährlichen Dingen eine klare Entscheidung treffen, wenn sie die Gedanken in die falsche Richtung anregen (Blicke, Bilder, Feeds, Filme, Situationen, Orte). Wo es zum Thema passt, gehört dieser Gedanke in jeden Artikel, nicht nur bei Pornografie.
+- **Konsequent statt halbherzig.** Jesus spricht drastisch davon, abzuschneiden, was zu Fall bringt (Matthäus 5,29–30). Die Schrift sagt „fliehe“ (2. Timotheus 2,22) und nicht „probier es mal mit weniger“.
+- **Gnade und Entscheidung gehören zusammen.** Gott schenkt das neue Herz (Hesekiel 36,26). Der Mensch antwortet darauf mit klaren Entscheidungen. Die Artikel sind weder reine Selbstoptimierung noch passives Warten.
+- **Forschung ist Hilfe, nicht Maßstab.** Psychologische Erkenntnisse (Gollwitzer, Wood, Lally, HALT) dürfen die praktischen Schritte stützen. Sie dürfen aber nichts empfehlen, was biblischen Maßstäben widerspricht. Im Zweifel weglassen und Andreas fragen.
+- **Einladend bleiben.** Nichtchristen sollen sich willkommen fühlen. Der Glaubensteil wird deshalb aber nicht weichgespült.
+
+Vor jedem Vorrat prüft Claude jeden Artikel ausdrücklich gegen diesen Abschnitt.
 
 ## Aufbau
 
