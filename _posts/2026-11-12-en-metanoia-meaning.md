@@ -9,9 +9,9 @@ permalink: /en/guides/metanoia-meaning/
 
 For a lot of people, the word "repent" comes with a picture attached. A guy on a street corner with a cardboard sign. A preacher who seems angry. Or just the quiet voice in your own head after another night you swore wouldn't happen again, telling you that you need to feel worse before you can get better.
 
-If that's what you hear when you see the word, you're not alone. But the Greek word behind it, metanoia, says something different and far more hopeful. Here's what it means, how the New Testament uses it, and what it has to do with breaking a habit you're tired of.
+If that's what you hear when you see the word, you're not alone. But the Greek word behind it, metanoia, says something deeper and far more hopeful than just feeling bad. Here's what it means, how the New Testament uses it, and what it has to do with breaking a habit you're tired of.
 
-**Short answer:** Metanoia (Greek μετάνοια) means "a change of mind." It comes from *meta* (after, beyond, a change) and *nous* (mind, the inner self). In the New Testament it's the word usually translated "repentance": a turning of the whole person, away from a path that isn't working and toward God. It's about direction, not self-punishment.
+**Short answer:** Metanoia (Greek μετάνοια) means "a change of mind." It comes from *meta* (after, beyond, a change) and *nous* (mind, the inner self). In the New Testament it's the word usually translated "repentance": a turning of the whole person, away from sin and toward God. It's about direction, not self-punishment.
 
 ## What does metanoia mean, word by word?
 
@@ -43,7 +43,7 @@ Paul is writing to people who already believe. And he still tells them to keep b
 
 The New Testament has another word that's easy to confuse with metanoia: μεταμέλομαι (metamelomai), which leans toward "regret." It's used of Judas after he betrayed Jesus (Matthew 27:3). He felt awful about what he'd done. But regret alone didn't bring him back.
 
-That's the difference. Regret looks backward and feels bad. Metanoia looks forward and changes direction. It may start with regret, but it doesn't stop there. Paul draws the same line in 2 Corinthians 7:10, where he contrasts a godly sorrow that leads to repentance with a worldly sorrow that only leads to death.
+That's the difference. Regret looks backward and feels bad. Metanoia looks forward and changes direction. It may start with regret, but it doesn't stop there. Paul draws the same line in 2 Corinthians 7:10, where he contrasts a godly sorrow that leads to repentance with a worldly sorrow that only leads to death. So sorrow over sin isn't wrong. It's meant to drive you toward God, not away from him.
 
 You probably know both from experience. There's the night you lie awake replaying what happened and promising yourself "never again." And there's the morning you actually tell someone the truth, delete the app, or change the route you drive home. The first is regret. The second is what repentance looks like with its shoes on.
 
@@ -59,7 +59,7 @@ So repentance, in the biblical sense, is not:
 - living under a permanent cloud of guilt
 - a performance that talks God into liking you
 
-It's turning around. Again and again, as often as you need to.
+It's turning around. Again and again, as often as you need to. Turning from what? From sin, called by its real name, not just from whatever isn't working for you. And turning toward God, who already loves you.
 
 ## Repentance is a gift, not a self-improvement project
 
@@ -71,9 +71,9 @@ Through the prophet Ezekiel, God promises to do the deepest part himself:
 
 A heart of stone can't change. God doesn't ask you to chisel it into something softer. He promises to replace it.
 
-The New Testament talks about repentance the same way. In Acts 11:18, the early believers are amazed that God has granted repentance to the Gentiles too. In Romans 2:4, Paul says it's God's kindness that leads us to repentance. Not his anger. His kindness.
+The New Testament talks about repentance the same way. In Acts 11:18, the early believers are amazed that God has granted repentance to the Gentiles too. In Romans 2:4, Paul says it's God's kindness that leads us to repentance. In the next verse he warns against brushing that kindness off (Romans 2:5). Kindness doesn't mean sin doesn't matter. It means God is giving you room to turn around.
 
-Jesus told a story about this. A young man takes his inheritance early, burns through it, and ends up feeding pigs. He rehearses a speech and heads home. He never gets to finish it:
+Jesus told a story about this. A young man takes his inheritance early, burns through it, and ends up feeding pigs. Out there he comes to his senses (Luke 15:17). He decides to go home and tell his father he has sinned against heaven and against him (Luke 15:18). He never gets to finish that speech:
 
 > "He arose and came to his father. But while he was still far off, his father saw him and was moved with compassion, and ran, fell on his neck, and kissed him." (Luke 15:20)
 
@@ -89,11 +89,13 @@ Here's what that looks like day to day.
 
 ### Direction matters more than your streak
 
-If metanoia is a change of direction, one bad night after three good weeks doesn't flip you back around. You haven't lost everything. You turn again. That's what Luther meant by a whole life of repentance. If you've just slipped, read [what to do after a relapse](/en/guides/relapse-what-to-do/).
+If metanoia is a change of direction, falling again after three good weeks is serious. Take it seriously and confess it. But it doesn't automatically flip you back around. You haven't lost everything. You turn again. That's what Luther meant by a whole life of repentance. If you've just slipped, read [what to do after a relapse](/en/guides/relapse-what-to-do/).
 
 ### Renew the thoughts, not just the behavior
 
 Romans 12:2 is about the renewing of the mind. In practice, pay attention to the thoughts that show up right before the habit. "I've earned this." "Just five minutes." "Nobody will know." Write them down when you catch them. Naming a thought takes some of the air out of it.
+
+Even better is settling these questions before the thoughts show up. Job didn't renegotiate every glance. He "made a covenant with my eyes" (Job 31:1) and decided once where his eyes wouldn't go. If you've decided ahead of time, you don't have to argue with "just five minutes."
 
 Those thoughts often show up when you're hungry, angry, lonely, or tired. The guide on [habit triggers and HALT](/en/guides/habit-triggers-halt/) walks through how to spot them.
 
@@ -107,14 +109,14 @@ Repentance starts with honesty before God. The Bible promises that if we confess
 
 ### Give it time
 
-Change takes longer than most people expect. A well-known study by Phillippa Lally and colleagues (2010, European Journal of Social Psychology) found that new behaviors took about 66 days on average to become automatic, with a wide range between people. More on that in [how long it takes to break a habit](/en/guides/how-long-does-it-take-to-break-a-habit/). Metanoia is a road, not a switch.
+Change takes longer than most people expect. A well-known study by Phillippa Lally and colleagues (2010, European Journal of Social Psychology) found that new behaviors took about 66 days on average to become automatic, with a wide range between people. More on that in [how long it takes to break a habit](/en/guides/how-long-does-it-take-to-break-a-habit/). Metanoia is a road, not a switch. The decision to turn is made today. What grows out of it takes time.
 
 ## Do I have to be religious for this to apply?
 
-No. Plenty of people who don't believe in God agree that lasting change starts with how you think, not just with gritting your teeth.
+You can use the practical steps either way. Plenty of people who don't believe in God agree that lasting change starts with how you think, not just with gritting your teeth. But metanoia in the Bible is more than a new mindset. It's turning to God.
 
 But the Bible offers more than a mindset. It says you don't have to turn around alone, and that someone is already coming to meet you. If you're curious, you can test that with a simple, honest prayer, even if you're not sure anyone's listening: "God, if you're there, I can't do this on my own. Help me turn around." That's enough to start.
 
 ## Your next step
 
-Take five minutes today and write one sentence: which direction do I want to turn? Not "I'll never do X again," but where you want to go. Then read Mark 1:15 and Ezekiel 36:26. And when you pray, don't only ask for more willpower. Ask for a new heart.
+Take five minutes today and write two sentences: What am I turning away from? And who am I turning toward? Then read Mark 1:15 and Ezekiel 36:26. And when you pray, don't only ask for more willpower. Ask for a new heart.

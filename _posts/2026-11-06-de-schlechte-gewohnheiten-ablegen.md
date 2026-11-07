@@ -88,7 +88,7 @@ Drei kleine Szenen dazu: Lena merkte, dass sie vor allem nach Telefonaten mit ih
 
 Die oft genannten 21 Tage sind kein Forschungsergebnis. In einer Studie von Phillippa Lally und Kollegen (2010, European Journal of Social Psychology) dauerte es im Mittel 66 Tage, bis ein neues Verhalten weitgehend automatisch lief. Die Spanne war groß, von 18 bis 254 Tagen, je nach Mensch und Verhalten.
 
-Ein wichtiges Ergebnis derselben Studie: Einzelne verpasste Tage haben den Aufbau der Gewohnheit nicht wesentlich gestört. Ein Ausrutscher ist also kein Grund, alles hinzuwerfen. Wichtig ist, dass du am nächsten Tag wieder ansetzt und fragst, was den Ausrutscher ausgelöst hat. Oft zeigt er dir eine Lücke in deinem Plan.
+Ein wichtiges Ergebnis derselben Studie: Einzelne verpasste Tage haben den Aufbau einer neuen Gewohnheit nicht wesentlich gestört. Auch ein Ausrutscher in die alte Gewohnheit ist ernst, aber kein Grund, alles hinzuwerfen. Wichtig ist, dass du am nächsten Tag wieder ansetzt und fragst, was den Ausrutscher ausgelöst hat. Oft zeigt er dir eine Lücke in deinem Plan.
 
 ## Was tun, wenn der Drang stark wird?
 

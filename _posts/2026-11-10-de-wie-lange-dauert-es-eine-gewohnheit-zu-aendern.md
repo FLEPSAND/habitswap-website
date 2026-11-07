@@ -7,9 +7,9 @@ ref: wie-lange
 permalink: /ratgeber/wie-lange-dauert-es-eine-gewohnheit-zu-aendern/
 ---
 
-Du bist seit drei Wochen dran. Irgendwo hast du gelesen, dass eine neue Gewohnheit nach 21 Tagen sitzt. Heute ist Tag 22, und der Drang ist so stark wie in der ersten Woche. Da liegt der Gedanke nahe, dass mit dir etwas nicht stimmt.
+Du bist seit drei Wochen dran. Irgendwo hast du gelesen, dass eine neue Gewohnheit nach 21 Tagen sitzt. Heute ist Tag 22, und der Drang ist so stark wie in der ersten Woche. Da liegt der Gedanke nahe, dass es bei dir einfach nicht klappt.
 
-Mit dir stimmt alles. Die 21 Tage sind eine Faustregel, die nie als feste Grenze gemeint war. Wie lange es dauert, eine Gewohnheit zu ändern, hängt von der Gewohnheit ab, von deinem Alltag und davon, ob du etwas aufbaust oder etwas loswerden willst. Hier steht, woher die Zahl kommt, was eine Studie aus London tatsächlich gemessen hat und womit du in welcher Phase rechnen kannst.
+Daran liegt es nicht. Die 21 Tage sind eine Faustregel, die nie als feste Grenze gemeint war. Wie lange es dauert, eine Gewohnheit zu ändern, hängt von der Gewohnheit ab, von deinem Alltag und davon, ob du etwas aufbaust oder etwas loswerden willst. Hier steht, woher die Zahl kommt, was eine Studie aus London tatsächlich gemessen hat und womit du in welcher Phase rechnen kannst.
 
 **Die kurze Antwort:** In der bekanntesten Studie dazu brauchten die Teilnehmer im Mittel 66 Tage, bis ein neues Verhalten automatisch lief. Bei manchen waren es 18 Tage, bei anderen nach Hochrechnung rund 254. Einzelne verpasste Tage warfen niemanden zurück. Wer eine alte Gewohnheit ablegen will, sollte eher mit zwei bis drei Monaten rechnen und damit, dass alte Auslöser auch danach noch gelegentlich anklopfen.
 
@@ -69,7 +69,7 @@ Jeder erlebt den Weg anders. Die Etappen hier sind Erfahrungswerte, keine Vorher
 
 **Tag 1 bis 7.** Der Drang kommt oft und heftig. Unruhe, Gereiztheit und schlechter Schlaf sind häufig. Dein Gehirn wartet auf die gewohnte Belohnung und meldet sich laut. Hilfreich: den Ersatz sofort einsetzen, nicht erst lange abwägen. Auslöser aus dem Weg räumen, wo es geht. Weniger Termine, mehr Bewegung.
 
-**Tag 7 bis 21.** Der erste Stolz ist da, gleichzeitig Langeweile und das Gefühl, dass etwas fehlt. Die Zeit, die früher die Gewohnheit gefüllt hat, ist plötzlich frei. Gefährlich wird der Satz „Einmal geht schon“. Hilfreich: feste Abläufe für die freie Zeit, kleine Belohnungen, die nichts mit der alten Gewohnheit zu tun haben, und den Tag in Abschnitte teilen, bis Mittag, bis zum Abend.
+**Tag 7 bis 21.** Der erste Stolz ist da, gleichzeitig Langeweile und das Gefühl, dass etwas fehlt. Die Zeit, die früher die Gewohnheit gefüllt hat, ist plötzlich frei. Gefährlich wird der Satz „Einmal geht schon“. Hilfreich: feste Abläufe für die freie Zeit, kleine Belohnungen, die nichts mit der alten Gewohnheit zu tun haben, und den Tag in Abschnitte teilen, bis Mittag, bis zum Abend. Entscheide deshalb vorher und nicht erst im Moment, so wie Hiob, der „einen Bund gemacht“ hatte „mit meinen Augen“ (Hiob 31,1). Er hat die Frage geklärt, bevor sie sich stellte. Wenn „einmal“ schon vorher ausgeschlossen ist, musst du abends nicht mehr darüber verhandeln.
 
 **Tag 21 bis 30.** Für viele wird es klarer und ruhiger. Gerade hier kann die 21-Tage-Erwartung schaden: Wer glaubt, jetzt müsse es vorbei sein, ist bei der nächsten Feier oder im Urlaub schlecht vorbereitet. Hilfreich sind Wenn-dann-Pläne nach Peter Gollwitzer: „Wenn ich auf die Feier gehe, dann trinke ich Wasser und gehe um elf.“
 
@@ -79,9 +79,9 @@ Jeder erlebt den Weg anders. Die Etappen hier sind Erfahrungswerte, keine Vorher
 
 ## Und wenn du zwischendurch fällst?
 
-Dann fängst du nicht bei null an. Das folgt direkt aus Lallys Daten: Ein verpasster Tag änderte am Verlauf wenig. Was du in den Wochen davor gelernt hast, über deine Auslöser, deinen Ersatz und deine schwachen Uhrzeiten, bleibt.
+Dann nimm es ernst, aber bleib nicht liegen. Lallys Studie hilft hier nur begrenzt, denn sie hat gemessen, wie man etwas Neues aufbaut, nicht, was ein Rückfall in eine alte Gewohnheit anrichtet. Was du in den Wochen davor gelernt hast, über deine Auslöser, deinen Ersatz und deine schwachen Uhrzeiten, bleibt. Und wenn es Sünde war, gibt es Vergebung und einen neuen Anfang (1. Johannes 1,9).
 
-Gefährlicher als der Ausrutscher selbst ist oft der Gedanke danach: „Jetzt ist es eh egal.“ Aus einem Abend werden dann drei Wochen. Wie du nach einem Rückfall schnell wieder Tritt fasst, steht in [Rückfall – was tun?](/ratgeber/rueckfall-was-tun/). Wenn es um Pornografie geht, findest du konkrete Schritte in [Pornos aufhören](/ratgeber/pornos-aufhoeren/).
+Der Ausrutscher ist ernst. Mindestens genauso gefährlich ist aber der Gedanke danach: „Jetzt ist es eh egal.“ Aus einem Abend werden dann drei Wochen. Wie du nach einem Rückfall schnell wieder Tritt fasst, steht in [Rückfall – was tun?](/ratgeber/rueckfall-was-tun/). Wenn es um Pornografie geht, findest du konkrete Schritte in [Pornos aufhören](/ratgeber/pornos-aufhoeren/).
 
 ## Geduld und Glaube
 
@@ -89,11 +89,11 @@ Viele Christen kennen den Druck, dass Veränderung schnell gehen müsse, wenn ma
 
 > „Lasset uns aber Gutes tun und nicht müde werden; denn zu seiner Zeit werden wir auch ernten ohne Aufhören.“ (Galater 6,9)
 
-„Zu seiner Zeit“ heißt: nicht nach Tag 21 und auch nicht nach einer Formel. Echte Veränderung kommt nach christlichem Verständnis nicht allein aus Willenskraft, sondern aus einem neuen Herzen, das Gott schenkt. Das nimmt dir die Last ab, alles an einem bestimmten Tag geschafft haben zu müssen. Und es gibt dir eine Zusage für die zähen Wochen in der Mitte:
+„Zu seiner Zeit“ heißt: nicht nach Tag 21 und auch nicht nach einer Formel. Echte Veränderung kommt nach christlichem Verständnis nicht allein aus Willenskraft, sondern aus einem neuen Herzen, das Gott schenkt. Das nimmt dir die Last ab, alles an einem bestimmten Tag geschafft haben zu müssen. Und es gibt dir eine Zusage für die zähen Wochen in der Mitte: Geduld heißt dabei nicht, die Sünde noch eine Weile mitlaufen zu lassen. Die Entscheidung umzukehren triffst du heute. Was Zeit braucht, ist das Wachsen danach.
 
 > „Und bin desselben in guter Zuversicht, daß, der in euch angefangen hat das gute Werk, der wird's auch vollführen bis an den Tag Jesu Christi.“ (Philipper 1,6)
 
-Wenn du mit dem Glauben nichts anfangen kannst, nimm aus diesem Abschnitt wenigstens das mit: Du darfst dir Zeit lassen, und niemand erwartet, dass du fehlerfrei bist.
+Wenn du mit dem Glauben nichts anfangen kannst, nimm aus diesem Abschnitt wenigstens das mit: Veränderung braucht Zeit, und Hilfe musst du dir nicht verdienen. Und wenn du neugierig bist, bitte Gott ruhig selbst um ein neues Herz.
 
 ## Dein nächster Schritt
 

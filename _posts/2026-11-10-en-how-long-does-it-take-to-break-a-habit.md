@@ -69,7 +69,7 @@ Everyone's path looks different. These stages are common patterns, not predictio
 
 **Days 1–7: The loud week.** Urges are frequent and strong. Restlessness, irritability, and poor sleep are common. Your brain is expecting its usual reward and protesting. What helps: use your replacement the moment the urge hits instead of debating it. Clear out easy triggers. Keep your schedule light and move your body.
 
-**Days 7–21: The first wall.** You may feel proud and, at the same time, bored or empty. The time the old habit used to fill is suddenly open. Watch out for the thought "I've got this, once won't hurt." What helps: plan what fills that free time, give yourself small rewards that have nothing to do with the old habit, and break the day into pieces: get to lunch, then to dinner.
+**Days 7–21: The first wall.** You may feel proud and, at the same time, bored or empty. The time the old habit used to fill is suddenly open. Watch out for the thought "I've got this, once won't hurt." What helps: plan what fills that free time, give yourself small rewards that have nothing to do with the old habit, and break the day into pieces: get to lunch, then to dinner. Settle it before the moment comes, like Job, who "made a covenant with my eyes" (Job 31:1). He answered the question before it came up. If "just once" is already off the table, you don't have to argue with it at night.
 
 **Days 21–30: Clearer air.** Many people feel calmer and more focused. This is exactly where the 21-day myth can hurt: if you believe you should be done by now, you won't be ready for the next party or vacation. What helps: if-then plans, which psychologist Peter Gollwitzer calls implementation intentions. "If I go to the party, then I'll drink sparkling water and leave at eleven."
 
@@ -79,9 +79,9 @@ Everyone's path looks different. These stages are common patterns, not predictio
 
 ## What if you slip?
 
-You don't start over from zero. That comes straight from Lally's data: a missed day barely changed the curve. Everything you learned in the weeks before, about your triggers, your replacement, and your risky hours, is still yours.
+Take it seriously, but don't stay down. Lally's study can't tell you much here, since it measured building something new, not falling back into something old. Everything you learned in the weeks before, about your triggers, your replacement, and your risky hours, is still yours. And if it was sin, there's forgiveness and a fresh start (1 John 1:9).
 
-What does the real damage is usually the thought that follows a slip: "Well, I've blown it anyway." That's how one night turns into three weeks. For a step-by-step reset, read [what to do after a relapse](/en/guides/relapse-what-to-do/). If porn is the habit you're fighting, [how to quit porn](/en/guides/how-to-quit-porn/) goes into specifics.
+The slip itself is serious. But the thought that follows can do even more damage: "Well, I've blown it anyway." That's how one night turns into three weeks. For a step-by-step reset, read [what to do after a relapse](/en/guides/relapse-what-to-do/). If porn is the habit you're fighting, [how to quit porn](/en/guides/how-to-quit-porn/) goes into specifics.
 
 ## Patience and faith
 
@@ -89,11 +89,11 @@ Many Christians carry a quiet pressure that real faith should make change fast. 
 
 > "Let’s not be weary in doing good, for we will reap in due season if we don’t give up." (Galatians 6:9, WEB)
 
-"In due season" doesn't mean day 21, and it doesn't follow a formula. The Christian hope is that lasting change comes from a new heart God gives, not from willpower alone. That takes away the pressure of having to be finished by a certain date. And it offers a promise for the long middle stretch:
+"In due season" doesn't mean day 21, and it doesn't follow a formula. The Christian hope is that lasting change comes from a new heart God gives, not from willpower alone. That takes away the pressure of having to be finished by a certain date. And it offers a promise for the long middle stretch: Patience doesn't mean letting sin ride for a while. The decision to turn around is one you make today. What takes time is the growth that follows.
 
 > "...being confident of this very thing, that he who began a good work in you will complete it until the day of Jesus Christ." (Philippians 1:6, WEB)
 
-If faith isn't part of your life, take this much from it: you're allowed to take your time, and nobody expects you to be flawless.
+If faith isn't part of your life, take this much from it: change takes time, and you don't have to earn help. And if you're curious, you can ask God for a new heart yourself.
 
 ## Your next step
 

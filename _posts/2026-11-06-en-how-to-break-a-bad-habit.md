@@ -88,7 +88,7 @@ A few real-life versions: Maya noticed she ate candy mostly after phone calls wi
 
 You've probably heard "21 days." That number doesn't come from habit research. In a study by Phillippa Lally and colleagues (2010, European Journal of Social Psychology), it took an average of 66 days for a new behavior to become mostly automatic. The range was wide, from 18 to 254 days, depending on the person and the behavior.
 
-The same study found that missing a single day didn't seriously set people back. So a slip isn't a reason to quit. Get back to your plan the next day, and ask what triggered the slip. It usually shows you a gap in your plan that you can fix.
+The same study found that missing a single day didn't seriously set people back while building a new habit. Falling back into the old one is serious too, but it isn't a reason to quit. Get back to your plan the next day, and ask what triggered the slip. It usually shows you a gap in your plan that you can fix.
 
 ## What to do when a craving hits
 

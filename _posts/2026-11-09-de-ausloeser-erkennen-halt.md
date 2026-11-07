@@ -43,6 +43,13 @@ Bestimmte Freunde, mit denen immer getrunken wird. Der Kollege, mit dem man zum 
 
 Viele Gewohnheiten hängen an einer Handlung, die direkt davor kommt. Kaffee, dann Zigarette. Handy entsperren, dann sofort Instagram. Laptop zuklappen nach der Arbeit, dann Gaming bis Mitternacht. Diese Ketten fallen am wenigsten auf, weil sie so selbstverständlich sind.
 
+Je früher in so einer Kette du entscheidest, desto leichter fällt es. Hiob sagt:
+
+> Ich habe einen Bund gemacht mit meinen Augen, daß ich nicht achtete auf eine Jungfrau.
+> (Hiob 31,1, Luther 1912)
+
+Er hat nicht gewartet, bis aus dem Blick Begierde wurde, sondern vorher festgelegt, wohin er nicht schaut. Entscheide also nicht erst, wenn der Drang da ist, sondern beim Entsperren, beim ersten Bild, beim ersten Klick.
+
 ## Was bedeutet die HALT-Regel?
 
 HALT ist ein englisches Kürzel, das seit Langem in der Suchthilfe und in Selbsthilfegruppen verwendet wird. Es steht für:
@@ -92,8 +99,8 @@ Hier einige Beispiele aus verschiedenen Gewohnheiten:
 |---|---|---|
 | Handy | im Bett, vor dem Einschlafen | Wenn ich ins Schlafzimmer gehe, dann lege ich das Handy zum Laden in die Küche und nehme ein Buch mit. |
 | Rauchen | Kaffee nach dem Mittagessen | Wenn ich den Kaffee hinstelle, dann gehe ich fünf Minuten um den Block, ohne Zigaretten in der Tasche. |
-| Alkohol | Freitagabend mit Freunden | Wenn ich in der Kneipe bestelle, dann nehme ich als erstes Getränk eine Schorle. |
-| Pornografie | allein, spät, müde | Wenn es nach 23 Uhr ist und ich allein bin, dann klappe ich den Laptop zu und gehe mit dem Handy außerhalb des Schlafzimmers schlafen. |
+| Alkohol | Freitagabend mit Freunden | Wenn ich in die Kneipe gehe, steht vorher fest: heute nichts mit Alkohol. Ich bestelle sofort eine Schorle. |
+| Pornografie | allein, spät, müde | Wenn ich abends allein zu Hause bin, dann laden Laptop und Handy ab 21 Uhr im Flur, und ich gehe ohne Bildschirm ins Schlafzimmer. |
 | Süßes | Frust nach der Arbeit | Wenn ich gereizt nach Hause komme, dann esse ich zuerst etwas Richtiges und rede fünf Minuten mit jemandem. |
 | Aufschieben | Laptop öffnen, sofort Nachrichten checken | Wenn ich den Laptop aufklappe, dann öffne ich zuerst die eine Datei, an der ich arbeiten will, und arbeite zehn Minuten daran. |
 
@@ -105,13 +112,17 @@ Manche Pläne funktionieren beim ersten Versuch, andere nicht. Das ist normal un
 
 Manchmal ist es leichter, einen Auslöser ganz aus dem Weg zu räumen, als ihm jedes Mal zu widerstehen. Das Handy schläft in der Küche. Die Zigaretten liegen nicht mehr im Auto. Die Spiele-App ist vom Startbildschirm verschwunden. Wendy Wood rät in ihrem Buch „Good Habits, Bad Habits“ (2019) genau zu solchen kleinen Hürden in der Umgebung. Sie wirken, ohne dass du jedes Mal Kraft aufbringen musst.
 
+Bei Dingen, die dich immer wieder in Sünde ziehen, reicht eine kleine Hürde oft nicht. Jesus spricht drastisch davon, abzuschneiden, was dich zu Fall bringt (Matthäus 5,29–30). Dann wird die App nicht verschoben, sondern gelöscht, und der Filter bekommt einen Code, den jemand anderes kennt.
+
 Und wenn der Drang trotzdem kommt, hilft es zu wissen, dass er sich meist wie eine Welle verhält. Er steigt, erreicht einen Höhepunkt und flaut wieder ab. Der Psychologe Alan Marlatt hat dafür den Begriff „Urge Surfing“ geprägt: den Drang beobachten, ohne ihm zu folgen, bis er nachlässt. Für solche Momente ist auch der Notfall-Coach in [Habit Swap](/) gedacht. Er fragt nach, wie es dir gerade geht, und erinnert dich an deinen Plan.
+
+Bei sexueller Versuchung rät die Bibel allerdings nicht zum Beobachten, sondern zur Flucht: „Fliehe die Lüste der Jugend“ (2. Timotheus 2,22). Dann heißt es nicht abwarten, bis die Welle abflaut, sondern sofort aufstehen, den Raum verlassen, das Gerät weglegen.
 
 Bei Pornografie, Alkohol oder Glücksspiel sind die Auslöser oft besonders stark und eng mit Scham verbunden. Wenn du merkst, dass du allein nicht weiterkommst, sprich mit einem Arzt oder einer Suchtberatung. Speziell zu Pornografie gibt es einen eigenen Artikel: [Pornos aufhören](/ratgeber/pornos-aufhoeren/).
 
 ## Was hat der Glaube damit zu tun?
 
-Die HALT-Frage ist im Kern eine Frage nach dem, was du wirklich brauchst. Viele schlechte Gewohnheiten sind Versuche, Hunger, Ärger, Einsamkeit oder Erschöpfung zu stillen, die das Bedürfnis aber nur kurz zudecken. Die Bibel ist da erstaunlich ehrlich. Auch Jesus war hungrig, als er in der Wüste versucht wurde (Matthäus 4,2). Er war müde, enttäuscht von seinen Freunden und am Ende sehr allein. Er kennt diese Zustände von innen.
+Die HALT-Frage ist im Kern eine Frage nach dem, was du wirklich brauchst. Viele schlechte Gewohnheiten sind Versuche, Hunger, Ärger, Einsamkeit oder Erschöpfung zu stillen, die das Bedürfnis aber nur kurz zudecken. Ein Bedürfnis zu haben, ist keine Sünde. Es auf einem Weg zu stillen, den Gott nicht will, schon. HALT erklärt, warum ein Moment schwer ist. Es entschuldigt nicht, was du danach tust. Die Bibel ist da erstaunlich ehrlich. Auch Jesus war hungrig, als er in der Wüste versucht wurde (Matthäus 4,2). Er war müde, enttäuscht von seinen Freunden und am Ende sehr allein. Er kennt diese Zustände von innen, und er ist darin nicht gefallen. Er ist „versucht allenthalben gleichwie wir, doch ohne Sünde“ (Hebräer 4,15). Gerade deshalb kann er helfen.
 
 Und er lädt gerade Menschen in solchen Momenten zu sich ein:
 

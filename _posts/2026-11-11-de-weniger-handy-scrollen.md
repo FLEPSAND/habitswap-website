@@ -26,9 +26,16 @@ Dazu kommen Mitteilungen. Jede ist ein kleiner Ruf: Schau her. Selbst wenn du ge
 
 Das heißt nicht, dass jede Nutzung schadet. Ein Videoanruf mit der Oma ist etwas anderes als eine Stunde Kurzvideos vor dem Einschlafen. Es kommt auf Art und Menge an, und darauf, ob du entscheidest oder der Feed.
 
+Und es kommt darauf an, was du dir anschaust. Viele Feeds spielen dir früher oder später Bilder zu, die deine Gedanken in eine Richtung ziehen, in die du nicht willst. Hiob sagt:
+
+> Ich habe einen Bund gemacht mit meinen Augen, daß ich nicht achtete auf eine Jungfrau.
+> (Hiob 31,1, Luther 1912)
+
+Diese Entscheidung fällt am besten, bevor das Bild auf dem Bildschirm ist: welche Apps du öffnest, wem du folgst, ob du Reels und Entdecken-Seiten überhaupt nutzt.
+
 ## Handysucht oder schlechte Angewohnheit?
 
-„Handysucht“ ist ein Wort aus dem Alltag, keine offizielle Diagnose. Für die meisten Menschen passt „eine Gewohnheit, die mir nicht guttut“ besser. Das macht es nicht harmlos, aber es nimmt etwas Druck raus: Gewohnheiten lassen sich ändern. Wie das grundsätzlich geht, steht im Artikel [Schlechte Gewohnheiten ablegen](/ratgeber/schlechte-gewohnheiten-ablegen/).
+„Handysucht“ ist ein Wort aus dem Alltag, keine offizielle Diagnose. Für die meisten Menschen passt „eine Gewohnheit, die mich im Griff hat“ besser. Das macht es nicht harmlos. Wenn das Handy dir die Zeit für Gott, für Menschen und für deine Aufgaben nimmt, geht es um mehr als dein Wohlbefinden. Die gute Nachricht: Gewohnheiten lassen sich ändern. Wie das grundsätzlich geht, steht im Artikel [Schlechte Gewohnheiten ablegen](/ratgeber/schlechte-gewohnheiten-ablegen/).
 
 Ernster wird es, wenn das Handy deinen Schlaf, deine Arbeit oder deine Beziehungen spürbar beschädigt und du es trotz vieler Versuche nicht in den Griff bekommst. Dann lohnt sich ein Gespräch mit deinem Hausarzt oder einer Suchtberatungsstelle. Viele Beratungsstellen kennen sich inzwischen auch mit Medien und Internet aus, und die Beratung ist oft kostenlos.
 
@@ -56,6 +63,8 @@ Die Forschung zu Gewohnheiten zeigt immer wieder, dass die Umgebung mehr bewirkt
 Unter „Einstellungen“ → „Bildschirmzeit“ kannst du „App-Limits“ für einzelne Apps oder ganze Kategorien festlegen und mit „Auszeit“ Zeiten bestimmen, in denen nur ausgewählte Apps gehen. Je nach iOS-Version heißen diese Menüs etwas anders, zum Beispiel „Nutzungszeiten“ und „Zeitplan für Bildschirmzeit“.
 
 Setz das Limit nicht gleich auf null. Wenn du gerade zwei Stunden am Tag in einer App bist, ist eine Stunde ein guter erster Schritt. Und wenn du dazu neigst, das Limit einfach wegzuklicken, gib den Bildschirmzeit-Code einer Person, der du vertraust.
+
+Anders ist es bei Apps, die dich immer wieder zu Inhalten führen, die du meiden willst. Da hilft kein Limit und kein Ordner auf der letzten Seite. Jesus sagt, es sei besser abzuschneiden, was dich zu Fall bringt (Matthäus 5,29–30). Dann wird die App gelöscht.
 
 ### Mitteilungen ausmisten
 
@@ -85,7 +94,7 @@ Langeweile ist dabei nicht der Feind. Ein paar Minuten ohne Input sind für den 
 
 ## Was, wenn ich wieder stundenlang gescrollt habe?
 
-Das wird passieren. Ein Abend mit zwei Stunden Feed macht deine Fortschritte nicht zunichte. Schau am nächsten Tag kurz nach: Wann war es, was war vorher, was hätte geholfen? Dann stell eine Sache um und mach weiter. Wie du mit solchen Abenden gut umgehst, steht in [Rückfall – was tun?](/ratgeber/rueckfall-was-tun/).
+Wenn es passiert ist, bleib nicht dabei stehen. Ein verlorener Abend macht deine Fortschritte nicht zunichte. Und wenn dabei Dinge auf dem Bildschirm waren, die du nicht hättest anschauen sollen, nenn es ehrlich beim Namen, vor Gott und vor einem Menschen, dem du vertraust. Schau am nächsten Tag kurz nach: Wann war es, was war vorher, was hätte geholfen? Dann stell eine Sache um und mach weiter. Wie du mit solchen Abenden gut umgehst, steht in [Rückfall – was tun?](/ratgeber/rueckfall-was-tun/).
 
 Und rechne nicht mit einer schnellen Wende. Gewohnheiten brauchen Zeit, um sich zu verändern. In einer Studie von Phillippa Lally und Kollegen (2010, European Journal of Social Psychology) dauerte es im Mittel 66 Tage, bis ein neues Verhalten automatisch lief, bei manchen deutlich kürzer, bei anderen viel länger. Mehr dazu in [Wie lange dauert es, eine Gewohnheit zu ändern?](/ratgeber/wie-lange-dauert-es-eine-gewohnheit-zu-aendern/).
 

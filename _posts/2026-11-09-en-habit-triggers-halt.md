@@ -43,6 +43,13 @@ The friends you always drink with. The coworker you step out to vape with. And s
 
 Many habits are hooked to whatever comes just before them. Coffee, then cigarette. Unlock phone, then TikTok. Close the work laptop, then gaming until 2 a.m. These chains are the easiest to miss because they feel so automatic.
 
+The earlier in a chain you decide, the easier it is. Job said:
+
+> I made a covenant with my eyes; how then should I look lustfully at a young woman?
+> (Job 31:1, WEB)
+
+He didn't wait for a glance to turn into desire. He decided ahead of time where his eyes wouldn't go. So don't wait for the urge. Decide at the unlock, the first image, the first click.
+
 ## What does HALT stand for?
 
 HALT is a short checklist that has been used for a long time in addiction recovery and 12-step groups. It stands for:
@@ -92,8 +99,8 @@ Some examples across different habits:
 |---|---|---|
 | Doomscrolling | in bed before sleep | If I walk into my bedroom, then I plug my phone in on the kitchen counter and bring a book instead. |
 | Vaping | first coffee of the morning | If I pour my coffee, then I drink it on the porch with the vape left in the car. |
-| Drinking | Friday happy hour | If I order at the bar, then my first drink is a club soda with lime. |
-| Porn | alone, late, tired | If it's after 11 p.m. and I'm by myself, then I shut the laptop and charge my phone outside the bedroom. |
+| Drinking | Friday happy hour | If I go to happy hour, it's settled before I walk in: no alcohol tonight. I order a club soda right away. |
+| Porn | alone, late, tired | If I'm home alone in the evening, then my laptop and phone charge in the hallway from 9 p.m., and I go to bed without a screen. |
 | Sugar | stressed after work | If I get home wound up, then I eat a real meal first and call someone for five minutes. |
 | Procrastination | opening the laptop, checking email | If I open my laptop, then I open the one file I need to work on and give it ten minutes before anything else. |
 
@@ -105,13 +112,17 @@ Some plans work the first time. Others don't. That's normal, and it doesn't mean
 
 Sometimes it's easier to remove a trigger altogether than to resist it every time. The phone sleeps in the kitchen. The vape doesn't live in your pocket. The game is off your home screen. In her book "Good Habits, Bad Habits" (2019), Wendy Wood recommends exactly this kind of small friction in your environment, because it works without needing a fresh dose of willpower each time.
 
+For things that keep pulling you into sin, a small speed bump often isn't enough. Jesus spoke bluntly about cutting off what makes you stumble (Matthew 5:29–30). Then the app doesn't get moved. It gets deleted, and someone else holds the filter passcode.
+
 And when the urge comes anyway, remember that it usually behaves like a wave. It rises, peaks, and fades if you don't feed it. Psychologist Alan Marlatt called this "urge surfing": watching the urge without acting on it until it passes. That's also what the emergency coach in [Habit Swap](/en/) is for. It checks in on how you're doing and reminds you of your plan.
+
+With sexual temptation, though, the Bible doesn't say watch it. It says run: "Flee from youthful lusts" (2 Timothy 2:22, WEB). Don't wait for the wave to pass where you are. Get up, leave the room, put the device down.
 
 With porn, alcohol, or gambling, triggers are often especially strong and tangled up with shame. If you're stuck, talk to your doctor. In the US you can call SAMHSA's free, confidential National Helpline at 1-800-662-4357. In the UK, your GP is a good first step. For porn specifically, see [How to quit porn](/en/guides/how-to-quit-porn/).
 
 ## Where faith fits in
 
-At its core, the HALT question asks what you actually need. A lot of bad habits are attempts to fix hunger, anger, loneliness, or exhaustion that only cover the need for a little while. The Bible is surprisingly honest about this. Jesus was hungry when he was tempted in the wilderness (Matthew 4:2). He knew exhaustion, friends who let him down, and deep loneliness. He understands these states from the inside.
+At its core, the HALT question asks what you actually need. A lot of bad habits are attempts to fix hunger, anger, loneliness, or exhaustion that only cover the need for a little while. Having a need isn't sin. Meeting it in a way God says no to is. HALT explains why a moment is hard. It doesn't excuse what you do next. The Bible is surprisingly honest about this. Jesus was hungry when he was tempted in the wilderness (Matthew 4:2). He knew exhaustion, friends who let him down, and deep loneliness. He understands these states from the inside, and he didn't give in. He was "in all points tempted like we are, yet without sin" (Hebrews 4:15, WEB). That's exactly why he can help.
 
 And he invites people in exactly those moments:
 

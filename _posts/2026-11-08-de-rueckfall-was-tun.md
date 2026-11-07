@@ -11,7 +11,7 @@ gesundheit: true
 
 Wochenlang hat es geklappt, und dann ist es doch wieder passiert. Vielleicht gestern Abend, vielleicht vor einer Stunde. Jetzt sitzt du da mit diesem Gefühl im Magen und dem Gedanken: Ich hab's schon wieder versaut. Wenn du gerade „Rückfall was tun“ gesucht hast, bist du hier richtig, und du bist damit nicht allein.
 
-Die kurze Antwort: Ein einzelner Ausrutscher ist noch kein Rückfall. Gefährlich wird er vor allem durch das, was du in den Stunden danach denkst und tust. Sorg heute für Ruhe und Grundbedürfnisse, sprich mit einem Menschen, schau ehrlich hin, was passiert ist, und ändere eine einzige Sache an deinem Plan. Dann zählt die nächste Entscheidung, nicht die letzte.
+Die kurze Antwort: Ein einzelner Ausrutscher ist noch kein Rückfall. Er ist ernst, aber ob daraus ein Rückfall ins alte Muster wird, entscheidet sich vor allem in den Stunden danach. Sorg heute für Ruhe und Grundbedürfnisse, sprich mit einem Menschen, schau ehrlich hin, was passiert ist, und ändere eine einzige Sache an deinem Plan. Dann zählt die nächste Entscheidung, nicht die letzte.
 
 ## Ausrutscher oder Rückfall: wo ist der Unterschied?
 
@@ -39,11 +39,11 @@ Die Zeit direkt nach einem Ausrutscher ist heikel. Die Scham ist frisch, die Gew
 
 **Der Abend oder die Nacht:** Geh schlafen, wenn es spät ist. Grübeln um Mitternacht führt selten zu guten Schlüssen. Wenn du merkst, dass der Drang wiederkommt, nutze deinen Ersatz oder deinen Notfallplan, so wie an jedem anderen Tag auch.
 
-**Der nächste Morgen:** Iss etwas Ordentliches und tu etwas Kleines, das dir guttut und das du sonst auch tun würdest: Sport, Spaziergang, Gebet, Arbeit. Der Tag nach einem Ausrutscher ist ein normaler Tag, kein Bußtag.
+**Der nächste Morgen:** Iss etwas Ordentliches und tu etwas Kleines, das dir guttut und das du sonst auch tun würdest: Sport, Spaziergang, Gebet, Arbeit. Der Tag nach einem Ausrutscher ist ein normaler Tag, kein Tag der Selbstbestrafung.
 
 **Innerhalb von 24 Stunden:** Erzähl es einem Menschen, dem du vertraust. Das kann ein Freund sein, dein Partner, jemand aus deiner Gemeinde oder deiner Selbsthilfegruppe. Eine Nachricht reicht: „Hatte gestern einen Ausrutscher. Mir geht's mittelmäßig, aber ich mach weiter.“ Was im Verborgenen bleibt, wächst. Was ausgesprochen ist, verliert an Gewicht.
 
-Was du in diesen 24 Stunden lassen solltest: dich bestrafen, extreme Vorsätze fassen („ab morgen nie wieder Handy“), den Ausrutscher verschweigen oder dir selbst einreden, dass es „ja nicht so schlimm“ war. Beides, die Selbstanklage und das Kleinreden, hält dich davon ab, ehrlich hinzuschauen.
+Was du in diesen 24 Stunden lassen solltest: dich bestrafen, große Schwüre aus Panik ablegen, die du morgen nicht halten kannst, den Ausrutscher verschweigen oder dir selbst einreden, dass es „ja nicht so schlimm“ war. Beides, die Selbstanklage und das Kleinreden, hält dich davon ab, ehrlich hinzuschauen.
 
 ## Ehrlich auswerten, ohne dich fertigzumachen
 
@@ -58,6 +58,8 @@ Eine bewährte Hilfe aus der Suchthilfe ist die HALT-Frage: Warst du hungrig, w�
 
 Bei der letzten Frage merkst du meistens, dass der Ausrutscher nicht aus dem Nichts kam. Es gab eine Kette: ein langer Tag, allein in der Wohnung, das Handy im Bett, „nur kurz schauen“. Jedes Glied dieser Kette ist eine Stelle, an der du beim nächsten Mal eingreifen kannst.
 
+Je früher in der Kette du entscheidest, desto leichter fällt es. Hiob hatte „einen Bund gemacht mit meinen Augen“ (Hiob 31,1). Er hat nicht erst entschieden, als die Versuchung groß war, sondern vor dem ersten Blick. Für dich kann das heißen: Das Handy kommt gar nicht mit ins Bett, und „nur kurz schauen“ gibt es nicht mehr.
+
 Selbstmitgefühl ist dabei keine Schwäche. In einer Studie von Breines und Chen (2012, Personality and Social Psychology Bulletin) waren Menschen, die nach einem Fehler freundlich mit sich umgingen, eher motiviert, es besser zu machen, als Menschen, die hart mit sich waren. Verantwortung übernehmen heißt nicht, sich fertigzumachen.
 
 In Habit Swap kannst du einen Ausrutscher mit Lage und Uhrzeit erfassen. Dann beginnt nur der Zähler „Tage frei“ neu, deine Höhenmeter, deine Stufe und dein Rekord bleiben. Im täglichen Check-in siehst du mit der Zeit, ob sich Muster wiederholen.
@@ -65,6 +67,8 @@ In Habit Swap kannst du einen Ausrutscher mit Lage und Uhrzeit erfassen. Dann be
 ## Den Plan anpassen
 
 Ein Ausrutscher zeigt dir, wo dein Plan eine Lücke hatte. Die Versuchung ist groß, jetzt alles auf einmal zu ändern. Besser ist eine einzige, konkrete Änderung, die genau auf den Auslöser passt.
+
+Eine Ausnahme gibt es: Wenn dich etwas immer wieder in dieselbe Sünde zieht, darf die Änderung radikal sein. Jesus sagt, es sei besser abzuschneiden, was dich zu Fall bringt (Matthäus 5,29–30). Die App löschen, das Abo kündigen, die Flasche wegschütten ist dann keine Überreaktion, sondern Konsequenz.
 
 Gut eignen sich Wenn-dann-Pläne, wie sie der Psychologe Peter Gollwitzer untersucht hat: Du legst vorher fest, was du in einer bestimmten Lage tust. Ein paar Beispiele:
 
@@ -81,13 +85,13 @@ Und wenn es um Pornografie geht: Dort spielen Filter, Bildschirmzeit und ein Rec
 
 ## Gnade und Neuanfang
 
-Für viele, die glauben, ist ein Ausrutscher mehr als ein Fehler im Plan. Er fühlt sich an wie Versagen vor Gott. Da kommt schnell der Gedanke, man müsse sich erst eine Weile schlecht fühlen, bevor man wieder beten darf.
+Für viele, die glauben, ist ein Ausrutscher mehr als ein Fehler im Plan. Wenn es um etwas geht, das die Bibel Sünde nennt, ist es das auch: Du hast nicht nur ein Ziel verfehlt, sondern gegen Gott gehandelt. Da kommt schnell der Gedanke, man müsse sich erst eine Weile schlecht fühlen, bevor man wieder beten darf.
 
 Die Bibel sieht das anders. Gott wartet nicht darauf, dass du dich lange genug bestraft hast:
 
 > „So wir aber unsre Sünden bekennen, so ist er treu und gerecht, daß er uns die Sünden vergibt und reinigt uns von aller Untugend.“ (1. Johannes 1,9)
 
-Bekennen heißt hier schlicht: ehrlich sagen, was war. Ohne Beschönigung und ohne langes Selbstgericht. Danach darfst du die Vergebung annehmen, statt sie dir verdienen zu wollen. Selbstvorwürfe machen nicht freier, sie machen müde.
+Bekennen heißt: Gott ehrlich sagen, was war, und es Sünde nennen, wo es Sünde war. Ohne Beschönigung und ohne langes Selbstgericht. Danach darfst du die Vergebung annehmen, statt sie dir verdienen zu wollen. Selbstvorwürfe machen nicht freier, sie machen müde.
 
 Im Gleichnis vom verlorenen Sohn läuft der Vater seinem Sohn entgegen, als der noch weit weg ist (Lukas 15,20). Der Sohn hat seine Rede noch gar nicht gehalten. So beschreibt Jesus, wie Gott auf jemanden reagiert, der umkehrt.
 
@@ -97,7 +101,7 @@ Ein Vers, der gut zum Morgen nach einem Ausrutscher passt:
 
 Gnade ist dabei kein Freibrief. Sie gibt dir die Kraft, wieder aufzustehen, und das ist etwas anderes als liegen zu bleiben. In Sprüche 24,16 heißt es: „Denn ein Gerechter fällt siebenmal und steht wieder auf.“ Dort steht nicht, dass er nie fällt.
 
-Wenn du nicht glaubst, ist das hier trotzdem für dich gemeint. Du musst dich nicht erst bestrafen, um neu anfangen zu dürfen. Das gilt für jeden.
+Wenn du nicht glaubst, ist das hier trotzdem für dich gemeint. Die Vergebung, von der Johannes schreibt, gilt jedem, der zu Gott umkehrt, nicht nur denen, die schon lange glauben. Bestrafen musst du dich dafür nicht.
 
 ## Wann du dir Hilfe holen solltest
 

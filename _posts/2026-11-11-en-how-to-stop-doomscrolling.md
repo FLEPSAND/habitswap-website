@@ -10,7 +10,7 @@ gesundheit: true
 
 It's 11:40 p.m. You told yourself you'd put the phone down at 11. The news is bad, the videos are mostly forgettable, and your eyes hurt, but your thumb keeps going. When you finally stop, you don't feel rested. You feel wired and a little hollow.
 
-If that sounds familiar, you're not lazy and you're not broken. You're up against products designed to keep you watching. This guide explains how to stop doomscrolling in a way that actually sticks: what's going on, how to take an honest look at your own habits, and the specific changes that make the biggest difference.
+If that sounds familiar, you're far from the only one, and it's not all on you. You're up against products designed to keep you watching. This guide explains how to stop doomscrolling in a way that actually sticks: what's going on, how to take an honest look at your own habits, and the specific changes that make the biggest difference.
 
 **The short answer:** To stop doomscrolling, change your setup instead of relying on willpower. Turn off most notifications, move the worst apps off your home screen, set app limits in Screen Time, and keep your phone out of the bedroom at night. Then decide in advance what you'll do in the bored moments when you'd normally reach for it.
 
@@ -26,9 +26,16 @@ Doomscrolling adds a third layer. Bad news grabs attention because it feels urge
 
 None of this means all phone use is harmful. A FaceTime call with your grandmother is not the same as two hours of short videos in bed. What matters is what you're doing and whether you chose it.
 
+It also matters what you're looking at. Sooner or later, most feeds serve up images that pull your thoughts where you don't want them to go. Job said:
+
+> I made a covenant with my eyes; how then should I look lustfully at a young woman?
+> (Job 31:1, WEB)
+
+That decision is easiest before the image is on your screen: which apps you open, who you follow, whether you use Reels and Explore at all.
+
 ## Is it phone addiction or just a bad habit?
 
-"Phone addiction" is an everyday phrase, not a formal diagnosis. For most people, "a habit that isn't good for me" is closer to the truth. That doesn't make it trivial, but it's good news: habits can change. Our guide on [how to break a bad habit](/en/guides/how-to-break-a-bad-habit/) covers the basics.
+"Phone addiction" is an everyday phrase, not a formal diagnosis. For most people, "a habit that has a hold on me" is closer to the truth. That doesn't make it trivial. When your phone takes the time that belongs to God, to people, and to your work, it's about more than how you feel. The good news is that habits can change. Our guide on [how to break a bad habit](/en/guides/how-to-break-a-bad-habit/) covers the basics.
 
 It's more serious when your phone use is clearly hurting your sleep, work, school, or relationships, and you haven't been able to cut back despite real effort. In that case, talk to your doctor or a licensed counselor. If your scrolling is tied to anxiety or low mood, that's worth bringing up too, because the phone is often a way of coping with something else.
 
@@ -56,6 +63,8 @@ Habit research keeps pointing in the same direction: your environment matters mo
 Go to Settings → Screen Time. Use App Limits to cap a single app or a whole category, and use Downtime to set hours when only the apps you choose are available. Depending on your iOS version, these may be called Time Allowances and Screen Time Schedule instead.
 
 Don't start at zero. If you spend two hours a day in one app, a one-hour limit is a solid first step. If you know you'll just tap "Ignore Limit," ask someone you trust to set the Screen Time passcode.
+
+It's different with apps that keep steering you toward things you want to stay away from. No limit or back-page folder will fix that. Jesus said it's better to cut off what makes you stumble (Matthew 5:29–30). That app gets deleted.
 
 ### Cut your notifications
 
@@ -85,7 +94,7 @@ Boredom isn't the enemy. A few minutes without input is rest for your mind, not 
 
 ## What if I still lose an evening to my phone?
 
-You will, at some point. One bad night doesn't erase your progress. The next day, take a quick look: when did it start, what was going on, what would have helped? Change one thing and keep going. Our guide on [what to do after a relapse](/en/guides/relapse-what-to-do/) walks through this.
+If it happens, don't stay stuck there. One lost evening doesn't erase your progress. And if you saw things you shouldn't have, name it honestly, to God and to someone you trust. The next day, take a quick look: when did it start, what was going on, what would have helped? Change one thing and keep going. Our guide on [what to do after a relapse](/en/guides/relapse-what-to-do/) walks through this.
 
 Give it time, too. In a 2010 study in the European Journal of Social Psychology, Phillippa Lally and colleagues found it took a median of 66 days for a new behavior to become automatic, with a wide range from person to person. More on that in [how long it takes to break a habit](/en/guides/how-long-does-it-take-to-break-a-habit/).
 
